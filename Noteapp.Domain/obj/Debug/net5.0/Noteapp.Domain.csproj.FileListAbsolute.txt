@@ -1,0 +1,12 @@
+C:\Users\Endi\source\repos\Noteapp.Domain\bin\Debug\net5.0\Noteapp.Domain.deps.json
+C:\Users\Endi\source\repos\Noteapp.Domain\bin\Debug\net5.0\Noteapp.Domain.dll
+C:\Users\Endi\source\repos\Noteapp.Domain\bin\Debug\net5.0\ref\Noteapp.Domain.dll
+C:\Users\Endi\source\repos\Noteapp.Domain\bin\Debug\net5.0\Noteapp.Domain.pdb
+C:\Users\Endi\source\repos\Noteapp.Domain\obj\Debug\net5.0\Noteapp.Domain.csproj.AssemblyReference.cache
+C:\Users\Endi\source\repos\Noteapp.Domain\obj\Debug\net5.0\Noteapp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Endi\source\repos\Noteapp.Domain\obj\Debug\net5.0\Noteapp.Domain.AssemblyInfoInputs.cache
+C:\Users\Endi\source\repos\Noteapp.Domain\obj\Debug\net5.0\Noteapp.Domain.AssemblyInfo.cs
+C:\Users\Endi\source\repos\Noteapp.Domain\obj\Debug\net5.0\Noteapp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Endi\source\repos\Noteapp.Domain\obj\Debug\net5.0\Noteapp.Domain.dll
+C:\Users\Endi\source\repos\Noteapp.Domain\obj\Debug\net5.0\ref\Noteapp.Domain.dll
+C:\Users\Endi\source\repos\Noteapp.Domain\obj\Debug\net5.0\Noteapp.Domain.pdb

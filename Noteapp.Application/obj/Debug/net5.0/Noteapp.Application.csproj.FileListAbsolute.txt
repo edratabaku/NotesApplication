@@ -1,0 +1,15 @@
+C:\Users\Endi\source\repos\Noteapp.Application\bin\Debug\net5.0\Noteapp.Application.deps.json
+C:\Users\Endi\source\repos\Noteapp.Application\bin\Debug\net5.0\Noteapp.Application.dll
+C:\Users\Endi\source\repos\Noteapp.Application\bin\Debug\net5.0\ref\Noteapp.Application.dll
+C:\Users\Endi\source\repos\Noteapp.Application\bin\Debug\net5.0\Noteapp.Application.pdb
+C:\Users\Endi\source\repos\Noteapp.Application\bin\Debug\net5.0\Noteapp.Domain.dll
+C:\Users\Endi\source\repos\Noteapp.Application\bin\Debug\net5.0\Noteapp.Domain.pdb
+C:\Users\Endi\source\repos\Noteapp.Application\obj\Debug\net5.0\Noteapp.Application.csproj.AssemblyReference.cache
+C:\Users\Endi\source\repos\Noteapp.Application\obj\Debug\net5.0\Noteapp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Endi\source\repos\Noteapp.Application\obj\Debug\net5.0\Noteapp.Application.AssemblyInfoInputs.cache
+C:\Users\Endi\source\repos\Noteapp.Application\obj\Debug\net5.0\Noteapp.Application.AssemblyInfo.cs
+C:\Users\Endi\source\repos\Noteapp.Application\obj\Debug\net5.0\Noteapp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Endi\source\repos\Noteapp.Application\obj\Debug\net5.0\Noteapp.Application.csproj.CopyComplete
+C:\Users\Endi\source\repos\Noteapp.Application\obj\Debug\net5.0\Noteapp.Application.dll
+C:\Users\Endi\source\repos\Noteapp.Application\obj\Debug\net5.0\ref\Noteapp.Application.dll
+C:\Users\Endi\source\repos\Noteapp.Application\obj\Debug\net5.0\Noteapp.Application.pdb

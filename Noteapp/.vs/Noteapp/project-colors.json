@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae798f31-ba58-46e5-8813-6d3896943a0a": {
+      "ProjectGuid": "ae798f31-ba58-46e5-8813-6d3896943a0a",
+      "DisplayName": "Noteapp",
+      "ColorIndex": 0
+    },
+    "7eaafda7-f2fa-4b7d-9489-7ce5b4f43467": {
+      "ProjectGuid": "7eaafda7-f2fa-4b7d-9489-7ce5b4f43467",
+      "DisplayName": "Noteapp.API",
+      "ColorIndex": 1
+    },
+    "cde68793-2e66-4e9e-b1b8-96112c06e27c": {
+      "ProjectGuid": "cde68793-2e66-4e9e-b1b8-96112c06e27c",
+      "DisplayName": "Noteapp.Application",
+      "ColorIndex": 2
+    },
+    "2e532faa-3b3b-4e47-a925-1d34fcc20b37": {
+      "ProjectGuid": "2e532faa-3b3b-4e47-a925-1d34fcc20b37",
+      "DisplayName": "Noteapp.IoC",
+      "ColorIndex": 3
+    },
+    "722afa63-c834-4ca8-911d-538d12507cc2": {
+      "ProjectGuid": "722afa63-c834-4ca8-911d-538d12507cc2",
+      "DisplayName": "Noteapp.Data",
+      "ColorIndex": 4
+    },
+    "e632b367-1db9-4775-a5ff-85884c24d556": {
+      "ProjectGuid": "e632b367-1db9-4775-a5ff-85884c24d556",
+      "DisplayName": "Noteapp.Domain",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
